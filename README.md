@@ -12,7 +12,7 @@ If Player still sleeping when urgent can wake it up already just keybind [Jump],
 
 Setting Up for Assembly-CSharp file
 
-\CasualtiesUnknown\ScavPrototypeV5\CasualtiesUnknown_Data\Managed
+\CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
 
 If don't want to delete the old file can also taking away to from underfolder.
 
