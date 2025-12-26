@@ -26,6 +26,8 @@ Intelligence: [Reputation for Trader, When level up reputation increased +4 But 
 
 [Workout pushups and squats have add for, When level up the workout speed will increased 1/20 and stamina discreased for 1/80, Planking was not moving, Just was holding so, Level up discreased 1/20, Especially strength with resilience.]
 
+Player Sound System: [Player can make it wailing sounds when press the button [V], The Keybind is [Wail].]
+
 Setting Up for Assembly-CSharp file
 
 \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
