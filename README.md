@@ -15,7 +15,7 @@ Minigame for Amputation System: [Only limbs infected above is 60% then can to st
 Skills Level System: [Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But good thing is changing skills level EXP make not messed and number EXP 50 to reaching level, If reached level is 10 times, Number EXP will been increased multiply 10, Then number EXP 50 will be to 500, Even to reach level 20, 500 will increased to 5000.]
 [About level how much is will game crashed, level 70 more than, I suppose the game crashed was because number EXP too much that gonna happened.]
 
-Skills Affects System:
+Skills Abilities System:
 
 Strength: [Strike attack damage when level up, The Damage number will increased for 1/30 But changed damage number increased was 1/80 and speed attack number increased also add 1/80, And also stamina and temperature, Number was add discreased for 1/80, Good thing can attacking hit by common creature giving stops moving, Especially high level as will, Bad thing is claws health and weapons melee, About health damaged was hit quickly when high level, Because damage attack not high but speed attack was fast, Even if 1 hit will take 1 damaged.]
 [Throw range when reached level, The Number increased was 1/20, But that too much for, So changed throw range number increased is 1/40, Just make not throw like the launch, Especially got high level.]
