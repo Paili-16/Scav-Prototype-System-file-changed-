@@ -24,7 +24,7 @@ Resilience: [Legs speed running and jumping, When level up the speed will increa
 
 Intelligence: [Reputation for Trader, When level up reputation increased +4 But has changed reputation increased +5, That could better.]
 
-[Workout pushups and squats have add for, When level up the workout speed will increased 1/20 and stamina discreased for 1/80, Planking was not move, Just was holding so, Level up discreased 1/20, Especially strength with resilience.]
+[Workout pushups and squats have add for, When level up the workout speed will increased 1/20 and stamina discreased for 1/80, Planking was not moving, Just was holding so, Level up discreased 1/20, Especially strength with resilience.]
 
 Setting Up for Assembly-CSharp file
 
