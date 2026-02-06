@@ -28,6 +28,8 @@ Intelligence: [Reputation for Trader, When level up reputation increased +4 But 
 
 Player Sound System: [Player can make it wailing sounds when press the button [V], The Keybind is [Wail].]
 
+Connected system for, Only following files is ScavDemoV5PreTesting5.
+
 Setting Up for Assembly-CSharp file
 
 \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
