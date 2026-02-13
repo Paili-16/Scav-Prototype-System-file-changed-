@@ -12,9 +12,11 @@ If Player still sleeping when urgent can wake it up already just keybind [Jump],
 
 Minigame for Amputation System: Only limbs infected above is 60% then can to start minigame for amputation, But now have adding idea to usable, When limbs dislocated joint or fractured bone, Can allowed for start minigame as amputation.
 
-Skills Level System: Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.25, Even if more than just same for multiply number increasing.
+Skills Level System: Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2, Even if more than just same for multiply number increasing.
 
 About level how much is will game crashed, level 70 more than, I suppose the game crashed was because number EXP too much that gonna happened.
+
+When The Player is the first start, The Player was completed for all skills level 10 start.
 
 Skills Abilities System:
 
@@ -30,7 +32,7 @@ Workout pushups and squats have add for, When level up the workout speed will in
 
 Player Sound System: Player can make it wailing sounds when press the button [V], The Keybind is [Wail].
 
-Connected system for, Only following files is CasualtiesUnknownV5.01Demo.
+Connected system for, Only following files is CasualtiesUnknownV5.03Demo.
 
 Setting Up for Assembly-CSharp file
 
