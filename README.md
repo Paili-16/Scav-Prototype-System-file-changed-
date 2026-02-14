@@ -19,7 +19,7 @@ Only limbs infected above is 60% then can to start minigame for amputation, But 
 ### Skills Level System:
 Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2, Even if more than just same for multiply number increasing.
 
-About level how much is will game crashed, level 70 more than, I suppose the game crashed was because number EXP too much that gonna happened.
+About level how much is will game crashed, level 90 more than, I suppose the game crashed was because number EXP too much that gonna happened.
 
 When The Player is the first start, The Player was completed for all skills level 10 start.
 
