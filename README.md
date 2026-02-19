@@ -1,7 +1,9 @@
-# The System file changed for Notes.
+# ![The Semiconductor](https://github.com/user-attachments/assets/c1b5eb8a-4874-4080-8ba2-9713e2f02397) The Changed System of Possession for Player. ![The Semiconductor](https://github.com/user-attachments/assets/c1b5eb8a-4874-4080-8ba2-9713e2f02397)
+
+## The System file changed for Notes.
 
 ### Speed Time System:
-Speed fasting timeX5 about use to skip changing to turn speed slow motion timeX5, And speed very fasting timeX20 changing be speed stop time to pausing.
+Speed fasting time 5x about use to skip changing to turn speed slow motion time 5x, And speed very fasting time 20x changing be speed stop time to pausing.
 
 Just don't need any skip time but good thing can slow motion and pausing.
 
@@ -17,7 +19,7 @@ If Player still sleeping when urgent can wake it up already just keybind [Jump],
 Only limbs infected above is 60% then can to start minigame for amputation, But now have adding idea to usable, When limbs dislocated joint or fractured bone, Can allowed for start minigame as amputation.
 
 ### Skills Level System:
-Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2, Even if more than just same for multiply number increasing.
+Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2x, Even if more than just same for multiply number increasing.
 
 About level how much is will game crashed, level 90 more than, I suppose the game crashed was because number EXP too much that gonna happened.
 
