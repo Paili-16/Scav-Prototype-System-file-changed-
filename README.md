@@ -41,7 +41,7 @@ Workout pushups and squats have add for, When level up the workout speed will in
 Player can make it wailing sounds when press the button [V], The Keybind is [Wail].
 
 > [!WARNING]
-> ### Connected system for, Only following files is: [CasualtiesUnknownV5.03Demo](https://orsonik.itch.io/scav-prototype).
+> ### Connected system for, Only following files is: [CasualtiesUnknownV5.1Demo](https://orsonik.itch.io/scav-prototype).
 
 > [!IMPORTANT]
 > ### Setting Up for Assembly-CSharp.dll file is: \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
