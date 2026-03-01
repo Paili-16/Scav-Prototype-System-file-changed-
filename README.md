@@ -1,4 +1,4 @@
-# ![The Semiconductor](https://github.com/user-attachments/assets/c1b5eb8a-4874-4080-8ba2-9713e2f02397) The Changed System of Possession for Player. ![The Semiconductor](https://github.com/user-attachments/assets/c1b5eb8a-4874-4080-8ba2-9713e2f02397)
+# ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a) The Changed System of Possession for Player. ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a)
 
 ## The System file changed for Notes.
 
@@ -27,7 +27,7 @@ When The Player is the first start, The Player was completed for all skills leve
 
 ### Skills Abilities System:
 
-Strength: Strike attack damage when level up, The Damage number will increased for 1/30 But changed damage number increased was 1/80 and speed attack number increased also add 1/80, And also stamina and temperature, Number was add discreased for 1/80, Good thing can attacking hit by common creature giving stops moving, Especially high level as will, Bad thing is claws health and weapons melee, About health damaged was hit quickly when high level, Because damage attack not high but speed attack was fast, Even if 1 hit will take 1 damaged.
+Strength: Strike attack damage when level up, The Damage number will increased for 1/30 But changed damage number increased was 1/80 and speed attack number increased also added 1/80, And also stamina and temperature, Number was add discreased for 1/80, Good thing can attacking hit by common creature giving stops moving, Especially high level as well, Bad thing is claws health and weapons melee, About health damaged was hit quickly when high level, Because damage attack not high but speed attack was fast, Even if 1 hit will take 1 damaged.
 
 Throw range when reached level, The Number increased was 1/10, But that too much for, So changed throw range number increased is 1/40, Just make not throw like the launch, Especially got high level.
 
