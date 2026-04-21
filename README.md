@@ -1,7 +1,7 @@
 # ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a) The Changed System of Possession for Player. ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a)
 
 > [!WARNING]
-> ### Connected system for, Only following files is: [CasualtiesUnknownV5.1Demo](https://orsonik.itch.io/scav-prototype).
+> ### Connected system for, Only following files is: [CasualtiesUnknownV6.0Demo](https://orsonik.itch.io/scav-prototype).
 
 > [!IMPORTANT]
 > ### Setting Up for [ Assembly-CSharp.dll ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
