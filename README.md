@@ -19,13 +19,13 @@ Traders about value given 60 reached will refuse be, So i to changing value give
 ### Player Sleeped System:
 Sleeping about Player signal want to sleep is below 35%, But i changing to below 40% can call it already to sleeping, If Player bad sleep still can call it sleeping again.
 
-If Player still sleeping when urgent can wake it up already just keybind [Jump], When Player use some sleeping pills, It can't might possible call it awake.
+If The Player still sleeping when urgent can wake it up already just keybind [Jump], When Player use some sleeping pills, It can't might possible call it awake.
 
 ### Minigame for Amputation System:
 Only limbs infected above is 60% then can to start minigame for amputation, But now i have adding idea to usable, When limbs dislocated joint or fractured bone, Can allowed for start minigame as amputation.
 
 ### Skills Level System:
-Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now i changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2x, Even if more than just same for multiply number increasing.
+The Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now i changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2x, Even if more than just same for multiply number increasing.
 
 About level how much is will game crashed, level 90 more than, I suppose the game crashed was because number EXP too much that gonna happened.
 
@@ -45,6 +45,11 @@ Workout pushups and squats have add for, When level up the workout speed will in
 
 ### Player Sound System:
 Player can make it wailing sounds when press the button [V], The Keybind is [Wail].
+
+### Stamina Strength System:
+The Player stamina if it running, jumping, striking, swimming or throw, When it stamina exhausted it will be weakness of movement, Also as stamina used is same drained for points number, Then it quite easily lost stamined it will stay ragdolled, So i adding Player stamina used can coping of consumption, Even if it stamined being exhausting, It's still can coping of physical, And reduce for drilling damage of claw and been dirtiness, When stamina is exhausted.
+
+Because that's stamina was with his movement, Instead of when it is tired using less effort deduct just same stamina point.
 
 If don't want to delete the old file can also taking away to from underfolder.
 
