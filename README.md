@@ -4,7 +4,7 @@
 > ### Connected system for, Only following files is: [CasualtiesUnknownV6.0Demo](https://orsonik.itch.io/scav-prototype).
 
 > [!IMPORTANT]
-> ### Setting Up for [ Assembly-CSharp.dll ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
+> ### Setting Up for [ [Assembly-CSharp.dll](https://github.com/Paili-16/Scav-Prototype-System-file-changed-/blob/main/Assembly-CSharp.dll) ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
 
 ## The System file changed for Notes.
 
