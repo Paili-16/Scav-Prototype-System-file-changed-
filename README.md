@@ -1,7 +1,7 @@
 # ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a) The Changed System of Possession for Player. ![The Semiconductor (Small)](https://github.com/user-attachments/assets/8b6cfb21-b078-4ecb-9660-17135991ad2a)
 
 > [!WARNING]
-> ### Connected system for, Only following files is: [CasualtiesUnknownV6.0Demo](https://orsonik.itch.io/scav-prototype).
+> ### Connected system for, Only following files is: [CasualtiesUnknownV6.1Demo](https://orsonik.itch.io/scav-prototype).
 
 > [!IMPORTANT]
 > ### Setting Up for [ [Assembly-CSharp.dll](https://github.com/Paili-16/Scav-Prototype-System-file-changed-/blob/main/Assembly-CSharp.dll) ] Replace a file from: \CasualtiesUnknownDemo\CasualtiesUnknown_Data\Managed
@@ -9,9 +9,11 @@
 ## The System file changed for Notes.
 
 ### Speed Time System:
-Speed fasting time 5x about use to skip changing to turn speed slow motion time 5x, And speed very fasting time 20x changing be speed stop time to pause.
+The Speedtimer you can using set speedtimer to slow motion time, Which is 5x slower, The Keybind is: [Slowmo] Was press keyboard is: [Alpha4] And pause, Was set on stop timming speed can early organize for thoughts, The Keybind is: [Stop] Was press keyboard is: [Alpha5]
 
-Just don't need any skip time, But good think anytime can slow motion and pausing.
+The Good think is, Even if you move or encounter enemy as damn creature, When you used slow motion or pause, That won't turn to for normally of speedtimer.
+
+This is i was adding the data, So new updated.
 
 ### Traders System:
 Traders about value given 60 reached will refuse be, So i to changing value given 100 then will be fair to trading.
@@ -47,10 +49,12 @@ Workout pushups and squats have add for, When level up the workout speed will in
 Player can make it wailing sounds when press the button [V], The Keybind is [Wail].
 
 ### Stamina Strength System:
-The Player stamina if it running, jumping, striking, swimming or throw, When it stamina exhausted it will be weakness of movement, Also as stamina used is same drained for points number, Then it quite easily lost stamined it will stay ragdolled, So i adding Player stamina used can coping of consumption, Even if it stamined being exhausting, It's still can coping of physical, And reduce for drilling damage of claw and been dirtiness, When stamina is exhausted.
+The Player stamina if it running, jumping, striking, swimming or throw, When it stamina exhausted it will be weakness of movement, Also as stamina used is quite easily lost stamined it will stay ragdolled.
+So i adding The Player stamina used can coping of consumption, Even if it stamined being exhausting, Unless just keep it spending of stamina used continuously until it being Highly exerted, It's also still will decreased stamina used was with stamina, And reduce for digging damaged of claw and been dirtiness.
 
-Because that's stamina was with his movement, Instead of when it is tired using less effort deduct just same stamina point.
+Because that's stamina was with his movement, Instead of when it stamina being tired using weak force, Which would affect the stamina used to deduct stamina for normally forcing.
 
+## The Notes end.
 If don't want to delete the old file can also taking away to from underfolder.
 
 So even if have possess, Then you might can keep Player better survivor and playing better.
