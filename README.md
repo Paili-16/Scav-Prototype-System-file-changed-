@@ -46,7 +46,7 @@ Intelligence: Reputation for Trader, When level up reputation increased +4 But h
 Workout pushups and squats have add for, When level up the workout speed will increased 1/20 and stamina discreased for 1/80, Planking was not moving, Just was holding so, Level up discreased 1/20, Especially strength with resilience.
 
 ### Player Sound System:
-Player can make it wailing sounds when press the button [V], The Keybind is [Wail].
+Player can make it wailing sounds when press the button [V], The Keybind is [Wail] Also can make it growling sounds and with tremble when press the button [G], The Keybind is [Growl]
 
 ### Stamina Strength System:
 The Player stamina if it running, jumping, striking, swimming or throw, When it stamina exhausted it will be weakness of movement, Also as stamina used is quite easily lost stamined it will stay ragdolled.
