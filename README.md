@@ -51,7 +51,8 @@ Player can make it wailing sounds when press the button [V], The Keybind is [Wai
 
 ### Stamina Strength System:
 
-### Ability stamina with strength: Stamina used ability strength, Temperature used ability strength, Claws used ability strength take damage, Digged ability strength get dirtiness, Dislocate used ability strength get pain, Break bone used ability strength get pain.
+### Ability stamina with strength:
+Stamina used ability strength, Temperature used ability strength, Claws used ability strength take damage, Digged ability strength get dirtiness, Dislocate used ability strength get pain, Break bone used ability strength get pain.
 
 The Player stamina if it running, jumping, striking, swimming or throw, When it stamina exhausted it will be weakness of movement, Also as stamina used is quite easily lost stamined it will stay ragdolled.
 So I adding The Player stamina used can coping of consumption, Even if it stamined being exhausting, Unless just keep it spending of stamina used continuously until it being Highly exerted, It's also still will decreased stamina used was with stamina, And reduce for digging damaged of claw and been dirtiness.
