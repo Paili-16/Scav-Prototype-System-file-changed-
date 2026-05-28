@@ -72,9 +72,11 @@ Reduction taked: Venom, Consciousness damage.
 
 Reduction chanced: Dislocate, Break bone, Disfigure, Gone eye, Dismembed by Dune's.
 
-### Spider bite: Get pain damaged %75 and place with addition.
+### Spider bite:
+Get pain damaged %75 and place with addition.
 
-### Climbing claws (New changed): Wear slot id: "outerhands" (You can wear gloves with climbing claws)
+### Climbing claws:
+Wear slot id: "outerhands" (You can wear gloves with climbing claws)
 
 ## The Notes end.
 If don't want to delete the old file can also taking away to from underfolder.
