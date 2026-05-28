@@ -72,8 +72,10 @@ Reduction taked: Venom, Consciousness damage.
 
 Reduction chanced: Dislocate, Break bone, Disfigure, Gone eye, Dismembed by Dune's.
 
-### Spider bite:
-Get pain damaged %75 and place with addition.
+### Spider stats:
+Spider bite: Get pain damaged 75% and place with addition.
+
+Spider burrow (Only like the Thornback can digging): Added damaging item but not quite destroyed, Unless the item at below condition 0% it's would be destroyed.
 
 ### Climbing claws:
 Wear slot id: "outerhands" (You can wear gloves with climbing claws)
