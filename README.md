@@ -27,18 +27,18 @@ Only limbs infected above is 60% then can to start minigame for amputation, But 
 ### Skills Level System:
 The Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now i changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2x, Even if more than just same for multiply number increasing.
 
-About the game crashed, Well I have adding [Comprehensive revision](https://www.nexusmods.com/scavprototype/mods/63) a data part, Especially skills can gaining extended to level 1000, But just I changed level 1010.
+About the game crashed, Well I have adding [Comprehensive revision](https://www.nexusmods.com/scavprototype/mods/63) a data part, Especially skills can gaining extended to level 1000, But just I changed level 110.
 
-And also that, When reaching level 90 more than, I'm afraid will probably be promoted directly from this level 1010, It's because the numbers has exceeded billion, But it's won't crashed, Just will problems been small laggy and directly will be noise, Just must to make sure this is warring volume.
+And also that, When reaching level 90 more than, I'm afraid will probably be promoted directly from this level 1010, It's because the numbers has exceeded billion, But it's won't crashed, Just will problems been hearing loss.
 
 When The Player is the first start, The Player was completed for all skills level 10 start.
 
 ### Skills Abilities System:
 ### Ability skills strength with level increases:
-Attack damage increased 1/80, Attack speed increased 1/80, Stamina used attack reducted 1/80, Attack temperature reducted 1/80, Claws take damage reducted 1/80, Throw range increased 1/40, Aiming speed increased 1/40, Pushups speed increased 1/20, Pushups gained exp increased 1/20, Minigame hand speed increased 1/40 and replace with multiplication, Minigame claws take damaged reducted 1/80. 
+Attack damage increased 1/80, Attack speed increased 1/80, Stamina used attack reducted 1/80, Attack temperature reducted 1/80, Claws take damage reducted 1/80, Throw range increased 1/40, Aiming speed increased 1/40, Pushups speed increased 1/20, Pushups gained exp increased 1/20, Minigame hand speed increased 1/40 and replace with multiplication, Minigame claws take damaged reducted 1/80.
 
 ### Ability skills resilience with level increases:
-Legs speed increased 1/80, Stamina recovery increased 1/40, Squats speed increased 1/20, Squats gained exp increased 1/20, Hypertension and hypotension reducted 1/40. 
+Legs speed increased 1/80, Stamina recovery increased 1/40, Squats speed increased 1/20, Squats gained exp increased 1/20, Hypertension and hypotension reducted 1/40.
 
 ### Ability skills strength and resilience with level increases:
 Wall slide slowdown increased 1/40, Ragdoll reducted 1/40, Ragdoll crawl speed increased 1/40, Defension increased 1/40, Stamina used plank reducted 1/20, Minigame hand tremor reducted 1/40, Unconsciousness reducted 1/40, Brain start dying reducted 1/40, Cardiac arrest reducted 1/40.
@@ -70,7 +70,9 @@ Aiming speed, Ragdoll crawl speed.
 ### With armor defension:
 Reduction taked: Venom, Consciousness damage.
 
-Reduction chanced: Dislocate, Break bone, Disfigure, Gone eye.
+Reduction chanced: Dislocate, Break bone, Disfigure, Gone eye, Dismembed by Dune's.
+
+### Spider bite: Get pain damaged %75 and place with addition.
 
 ### Climbing claws (New changed): Wear slot id: "outerhands" (You can wear gloves with climbing claws)
 
