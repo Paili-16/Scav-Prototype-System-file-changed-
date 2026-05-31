@@ -8,28 +8,28 @@
 
 ## The System file changed for Notes.
 
-### Speed Time System:
-The Speedtimer you can using set speedtimer to slow motion time, Which is 5x slower, The Keybind is: [Slowmo] Was press keyboard is: [Alpha4] And pause, Was set on stop timming speed can early organize for thoughts, The Keybind is: [Stop] Was press keyboard is: [Alpha5]
+### Times Scale System:
+The times scale you can using set times scale to slow motion, Which is x5 slower, The Keybind is: [Slowmo] Was press keyboard is: [Alpha4] And pause, Was set on stop times scale can early organize for thoughts, The Keybind is: [Stop] Was press keyboard is: [Alpha5]
 
-The Good think is, Even if you move or encounter enemy as damn creature, When you used slow motion or pause, That won't turn to for normally of speedtimer.
+### Trader Stats System:
+Trader haggle: Value given 100.
 
-### Traders System:
-Traders about value given 60 reached will refuse be, So I to changing value given 100 then will be fair to trading.
+Trader strike: Will strike off Player eye (If Player his head skin health decreases, The chances of hitting the target will be higher.)
 
 ### Player Sleeped System:
-Sleeping about Player signal want to sleep is below 35%, But I changing to below 40% can call it already to sleeping, If Player bad sleep still can call it sleeping again.
+Sleeping to below 40% can call it already to sleeping, If Player has bad sleep still can sleeped again.
 
-If The Player still sleeping when urgent can wake it up already just keybind [Jump], When Player use some sleeping pills, It can't might possible call it awake.
+If The Player still sleeping when urgent can wake it up already just keybind [Jump], When Player use sleeping pills, It won't might possible call it awaked.
 
 ### Minigame for Amputation System:
-Only limbs infected above is 60% then can to start minigame for amputation, But now I have adding idea to usable, When limbs dislocated joint or fractured bone, Can allowed for start minigame as amputation.
+When limb's dislocated joint or fractured bone, Allowed to start minigame as amputation.
 
 ### Skills Level System:
-The Player skills level EXP was have messing by reaching level up then number for EXP will be multiply more and more, Somehow if want to reaching from level 40 more than then the game will be crashed, But now i changing skills level EXP make number EXP 50 to reaching level, If reached level is 10 times, Then number EXP is multiply increased for 1.2x, Even if more than just same for multiply number increasing.
+The Player skills level EXP the number EXP 50 to reaching level, If it reached extension level 10, Then number EXP is multiply increased at x1.2, Even if more than just same for multiply number increasing.
 
 About the game crashed, Well I have adding [Comprehensive revision](https://www.nexusmods.com/scavprototype/mods/63) a data part, Especially skills can gaining extended to level 1000, But just I changed level 110.
 
-And also that, When reaching level 90 more than, I'm afraid will probably be promoted directly from this level 1010, It's because the numbers has exceeded billion, But it's won't crashed, Just will problems been hearing loss.
+And also that, When reaching level 90 more than, I'm afraid will probably be promoted directly from this level 110, It's because the numbers has exceeded billion, But it's won't crashed, Just will problems been hearing loss.
 
 When The Player is the first start, The Player was completed for all skills level 10 start.
 
@@ -47,7 +47,7 @@ Wall slide slowdown increased 1/40, Ragdoll reducted 1/40, Ragdoll crawl speed i
 Meet trader's reputation increased +5.
 
 ### Player Sound System:
-Player can make it wailing sounds when press the button [V], The Keybind is [Wail] Also can make it growling sounds and with tremble when press the button [G], The Keybind is [Growl]
+The Player can make it wailing sounds when press the button [V], The Keybind is [Wail] Also can make it growling sounds and with tremble when press the button [G], The Keybind is [Growl]
 
 ### Stamina Strength System:
 
@@ -59,8 +59,19 @@ So I adding The Player stamina used can coping of consumption, Even if it stamin
 
 Because that's stamina was with his movement, Instead of when it stamina being tired using weak force, Which would affect the stamina used to deduct stamina for normally forcing.
 
-### New Added System:
+### Spider Stats System:
+Spider bite: Get pain damaged 75% and place with addition, Will bite off Player eye (If Player his head skin health decreases, The chances of hitting the target will be higher.)
 
+Spider hitted: When it stunned or retreat, By item's you throw hit it, Allowing 100% hit rate, Item hitting no longer has bounced.
+
+Spider burrow (Only like the Thornback can digging): Damaging item but not quite destroyed, Unless the item at below condition 0% it's would be destroyed.
+
+### Item Stats System:
+Item's condition has HP (Mass with condition, When item the heavier it's condition at higher hp was reduction take damaged.)
+
+Climbing claws: Wear slot id: "outerhands" (You can wear gloves with climbing claws.)
+
+### Ability System:
 ### With stimulant:
 Attack speed increased 1x, Aiming speed increased 1x, Ragdoll crawl speed increased 1x, Minigame hand speed increased 1x.
 
@@ -72,13 +83,8 @@ Reduction taked: Venom, Consciousness damage.
 
 Reduction chanced: Dislocate, Break bone, Disfigure, Gone eye, Dismembed by Dune's.
 
-### Spider stats:
-Spider bite: Get pain damaged 75% and place with addition.
-
-Spider burrow (Only like the Thornback can digging): Added damaging item but not quite destroyed, Unless the item at below condition 0% it's would be destroyed.
-
-### Climbing claws:
-Wear slot id: "outerhands" (You can wear gloves with climbing claws)
+### Object collision:
+The Object hitting: The any damages with mass (Was Player hit by collision object. More seriously like, Crate's like the Skullcrusher heavy damages, Food box probably light damages.)
 
 ## The Notes end.
 If don't want to delete the old file can also taking away to from underfolder.
